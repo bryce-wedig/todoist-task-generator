@@ -1,1 +1,4 @@
-﻿task_name,rel_start,rel_end
+"task_name,rel_start,rel_end"
+"lock door,0,"
+"turn on Todoist vacation mode,0,"
+"turn off Todoist vacation mode,,0"
