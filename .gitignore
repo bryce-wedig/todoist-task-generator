@@ -1,0 +1,3 @@
+secrets.json
+/task_loaders/*
+!/task_loaders/example.csv
